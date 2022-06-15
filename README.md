@@ -9,4 +9,20 @@ This is an Amazon Web Scraping program written using the Selenium library utiliz
   <li><p>Product Filter</p></li>
 </ul>
 
+## Note
+This uses the Firefox Webdriver, to change it please download the following:  
+
+Chrome: https://chromedriver.chromium.org/downloads
+Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+Safari: https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari
+
+### Configure  
+Change the following lines to your webdriver of choice:
+```python
+driver = webdriver.Firefox()
+```
+```python
+driver = webdriver.Chrome()
+```
+
 (UNDER DEV)
