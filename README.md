@@ -12,9 +12,9 @@ This is an Amazon Web Scraping program written using the Selenium library utiliz
 ## Note
 This uses the Firefox Webdriver, to change it please download the following:  
 
-Chrome: https://chromedriver.chromium.org/downloads
-Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
-Safari: https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari
+Chrome: https://chromedriver.chromium.org/downloads  
+Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/  
+Safari: https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari  
 
 ### Configure  
 Change the following lines to your webdriver of choice:
