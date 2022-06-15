@@ -14,7 +14,23 @@ This uses the Firefox Webdriver, to change it please download the following:
 
 Chrome: https://chromedriver.chromium.org/downloads  
 Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/  
-Safari: https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari  
+Safari: https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari 
+
+## Download 
+1) Download the main file directory
+2) Add app name to your settings.py file
+```python
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+
+    'Amazon-Selenium-Web-Scraper',
+]
+```
 
 ### Configure  
 Change the following lines to your webdriver of choice:
