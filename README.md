@@ -17,8 +17,9 @@ Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 Safari: https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari 
 
 ## Download 
-1) Download the main file directory
-2) Add app name to your settings.py file
+1) Download the main ZIP file directory from Github
+2) Extract it inside your Django Project's directory 
+3) Add app name to your settings.py file
 ```python
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -32,7 +33,7 @@ INSTALLED_APPS = [
 ]
 ```
 
-### Configure  
+## Configure  
 Change the following lines to your webdriver of choice:
 ```python
 driver = webdriver.Firefox()
@@ -43,3 +44,7 @@ driver = webdriver.Chrome()
 ```python
 driver = webdriver.DriverOfChoice()
 ```
+### Integrate with your database
+The webscraper code will not work out of the box, its more of a template where the use will change placeholder values to meet his exact needs, and integrate it with his Django Models and Database of choice.  
+  
+THE TOOL IS STILL UNDER DEV AND WILL BE FINISHED SOON
