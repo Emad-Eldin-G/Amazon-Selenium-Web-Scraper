@@ -24,5 +24,6 @@ driver = webdriver.Firefox()
 ```python
 driver = webdriver.Chrome()
 ```
-
-(UNDER DEV)
+```python
+driver = webdriver.DriverOfChoice()
+```
