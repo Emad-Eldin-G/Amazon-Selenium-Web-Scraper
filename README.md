@@ -51,3 +51,4 @@ driver = webdriver.DriverOfChoice()
 The webscraper code will not work out of the box, its more of a template where the use will change placeholder values to meet his exact needs, and integrate it with his Django Models and Database of choice.  
   
 THE TOOL IS STILL UNDER DEV AND WILL BE FINISHED SOON
+VER(1.0)
