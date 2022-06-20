@@ -1,5 +1,7 @@
-# Amazon-Web-Scraper
+# Amazon-Web-Scraper 🛒📄
 This is an Amazon Web Scraping program written using the Selenium library, that integrates with your Django application and Database.
+
+<img src="https://github.com/Emad-Eldin-G/Amazon-Selenium-Web-Scraper/blob/main/Meta%20Images/Asset%201.png" width="200">
 
 <h2>Supports: </h2>
 <ul>
