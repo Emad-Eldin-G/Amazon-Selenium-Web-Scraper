@@ -54,4 +54,4 @@ THE TOOL IS STILL UNDER DEV AND WILL BE FINISHED SOON
 VER(1.0)  
 
 ## Contribution 
-Amazon Selenium Web scraper is open source, feel free to raise issues and pull requests.
+Amazon Selenium Web scraper is open source, feel free to raise issues and pull requests
